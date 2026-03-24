@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D6B07A"/>
+      <stop offset="100%" stop-color="#9B7444"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="256" fill="#FFFCF7"/>
+  <circle cx="256" cy="256" r="210" stroke="url(#gold)" stroke-width="14"/>
+  <path d="M165 195c25-45 74-66 121-62 38 3 77 23 96 57-21-18-47-31-77-34-43-5-84 9-111 39-15 16-24 35-28 56-16-20-17-39-1-56z" fill="url(#gold)" opacity="0.9"/>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#9B7444" font-size="58" font-family="Georgia,serif">Flórida</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#B9925D" font-size="30" font-family="Georgia,serif">Doces</text>
+</svg>
